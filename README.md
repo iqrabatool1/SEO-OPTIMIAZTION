@@ -66,3 +66,8 @@ combining technical audits with creative optimization strategies to deliver meas
 
 
 See screenshots
+https://github.com/iqrabatool1/SEO-OPTIMIAZTION/blob/main/Screenshot%202025-08-05%20110645.png
+
+https://github.com/iqrabatool1/SEO-OPTIMIAZTION/blob/main/Screenshot%202025-08-07%20103644.png
+
+https://github.com/iqrabatool1/SEO-OPTIMIAZTION/blob/main/Screenshot%202025-08-07%20103903.png
