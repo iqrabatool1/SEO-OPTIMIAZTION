@@ -64,6 +64,8 @@ This project involved a full-cycle SEO optimization for
 This project strengthened my practical SEO skills and provided valuable experience in 
 combining technical audits with creative optimization strategies to deliver measurable results.
 
+## Before SEO 
+
 <p align="center">
   <img src="https://github.com/iqrabatool1/SEO-OPTIMIAZTION/raw/main/Screenshot%202025-08-05%20110645.png" width="300" style="margin-right: 10px;">
   <img src="https://github.com/iqrabatool1/SEO-OPTIMIAZTION/raw/main/Screenshot%202025-08-07%20103644.png" width="300" style="margin-right: 10px;">
