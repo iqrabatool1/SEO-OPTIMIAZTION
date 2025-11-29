@@ -1,4 +1,4 @@
- SEO-OPTIMIAZTION
+ ## SEO-OPTIMIAZTION
 This project involved a full-cycle SEO optimization for
 
 [rightone.ae](http://rightone.ae/), aiming to improve search visibility, keyword rankings, and organic traffic through technical, on-page, and off-page SEO strategies.
